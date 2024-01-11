@@ -38,3 +38,24 @@
   margin: 5px;
 }
 
+.block5{
+border: 2px solid black;
+height: 150px;
+width: 150px;
+margin: 5px;
+padding: 3px;
+
+}
+
+.block6{
+  border: 2px solid black;
+  height: 125px;
+  width: 400px;
+  margin: 5px;
+  padding: 5px;
+
+
+
+
+
+}
